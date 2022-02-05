@@ -2,7 +2,7 @@
 # Usage:
 # download the .sh file
 
-#mark the file as executable:
+# mark the file as executable:
 # > chmod +x filename.sh
 
 # Run to execute it:
